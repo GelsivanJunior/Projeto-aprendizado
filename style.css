@@ -1,0 +1,28 @@
+body {
+    font-family:"Helvetica" , "Lucida grande" sans-serif ;
+    color: #3D3D3D;
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    background-color: #E1EDF2;
+    padding: 10px;
+}
+
+h2 {
+    border-bottom: 2px solid black;
+}
+
+figure {
+    padding: 15px;
+    margin: 30px;
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    text-align: center;
+}
+
+figcaption{
+    margin-top: 10px;
+}
